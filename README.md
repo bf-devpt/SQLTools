@@ -32,4 +32,4 @@ Sufficient permissions to access system views (sys.objects, sys.sql_modules, sys
 ## 📂 Repository Structure
 
 - `find_objects_with_text.sql` – Search for object definitions containing keywords  
-- `running_queries.sql` – Monitor active SQL queries in real time![image](https://github.com/user-attachments/assets/906c955d-a583-44c0-a543-004866aac73c)
+- `running_queries.sql` – Monitor active SQL queries in real time!
